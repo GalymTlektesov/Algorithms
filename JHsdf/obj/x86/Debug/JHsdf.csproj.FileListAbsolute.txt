@@ -1,0 +1,6 @@
+/Users/user/Projects/JHsdf/JHsdf/bin/Debug/JHsdf.exe
+/Users/user/Projects/JHsdf/JHsdf/bin/Debug/JHsdf.pdb
+/Users/user/Projects/JHsdf/JHsdf/obj/x86/Debug/JHsdf.csprojAssemblyReference.cache
+/Users/user/Projects/JHsdf/JHsdf/obj/x86/Debug/JHsdf.csproj.CoreCompileInputs.cache
+/Users/user/Projects/JHsdf/JHsdf/obj/x86/Debug/JHsdf.exe
+/Users/user/Projects/JHsdf/JHsdf/obj/x86/Debug/JHsdf.pdb
